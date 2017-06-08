@@ -16,7 +16,7 @@ public class HelloWorld {
     public void setS(String s) {
         this.s = s;
     }
-
+//配置
     public static void main(String[] args) {
         String ss = "hello world!";
         System.out.println(ss);
