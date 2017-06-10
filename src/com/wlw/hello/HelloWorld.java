@@ -16,6 +16,7 @@ public class HelloWorld {
     public void setS(String s) {
         this.s = s;
     }
+    //冲突测试
 //配置123123134
     public static void main(String[] args) {
         String ss = "hello world!";
