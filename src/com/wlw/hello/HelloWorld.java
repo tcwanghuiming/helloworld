@@ -17,6 +17,7 @@ public class HelloWorld {
         this.s = s;
     }
 //配置123123134
+    //冲突测试intelliJ
     public static void main(String[] args) {
         String ss = "hello world!";
         System.out.println(ss);
