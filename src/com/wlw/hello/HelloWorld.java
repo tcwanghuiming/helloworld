@@ -23,6 +23,6 @@ public class HelloWorld {
     //冲突测试intelliJ2
     public static void main(String[] args) {
         String ss = "hello world!";
-        System.out.println(ss+"hehe");
+        System.out.println(ss+"hehe123");
     }
 }
