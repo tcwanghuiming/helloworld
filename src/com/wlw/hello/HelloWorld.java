@@ -22,6 +22,5 @@ public class HelloWorld {
     //冲突测试intelliJ
     public static void main(String[] args) {
         String ss = "hello world!";
-        System.out.println(ss);
     }
 }
