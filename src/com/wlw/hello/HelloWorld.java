@@ -26,8 +26,10 @@ public class HelloWorld {
     //by idea hehehehe
     //123123
     //456456
+    //撤销测试  by local
     public static void main(String[] args) {
         String ss = "hello world!";
         System.out.println(ss+"hehe123");
     }
+    //撤销测试
 }
